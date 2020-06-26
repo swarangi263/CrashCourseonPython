@@ -1,0 +1,4 @@
+sec_day = 86400
+day_week = 7
+sec_week = sec_day*day_week
+print(sec_week)
