@@ -1,0 +1,2 @@
+pos_letter = 26*26*26*26*26*26
+print(pos_letter)
