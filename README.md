@@ -1,2 +1,2 @@
-# CrashCourseonPython
-This is the codes I have been writing to solve assignments while doing this course offered by Google on Coursera
+# 🐍 Python Crash Course
+🚀 A quick and practical introduction to Python programming, covering fundamental concepts with hands-on examples for learning purposes.
